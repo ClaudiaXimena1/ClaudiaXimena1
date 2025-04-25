@@ -3,7 +3,7 @@
 :computer: **Ingeniera de Sistemas**
 :pencil: **Consultora Oracle EBS**
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)
-:hobbie: **Me encanta el cine y hacer deporte**
+:hobbies: **Me encanta el cine y hacer deporte**
 :family: **¡La abuela más feliz del mundo!**
 
 ### Vias de contacto
