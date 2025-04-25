@@ -4,7 +4,7 @@
 :pencil: **Consultora Oracle EBS**
 :eyeglases: **Geek empedernido** (¿aún se usa geek?)
 :oncoming_automobile: **Me encanta el cine y hacer deporte**
-:famili: **¡La abuela más feliz del mundo!**
+:family: **¡La abuela más feliz del mundo!**
 
 ### Vias de contacto
 ![Website](https://img.shields.io/badge/claudiaximena1.com-up-green?style=for-the_badge)
