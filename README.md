@@ -2,7 +2,7 @@
 
 :computer: **Ingeniera de Sistemas**
 :pencil: **Consultora Oracle EBS**
-:eyeglases: **Geek empedernido** (¿aún se usa geek?)
+:eyeglasses: **Geek empedernido** (¿aún se usa geek?)
 :oncoming_automobile: **Me encanta el cine y hacer deporte**
 :family: **¡La abuela más feliz del mundo!**
 
