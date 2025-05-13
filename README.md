@@ -10,3 +10,8 @@
 ![Website](https://img.shields.io/badge/claudiaximena1.com-up-green?style=for-the_badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ClaudiaXimena1/ClaudiaXimena1)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
